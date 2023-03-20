@@ -7,7 +7,7 @@
 <tr>
 <td>🔭 I’m currently working on: </br>
  <li>
-  <ul> __Deep Reinforcement Learning__ </ul> </br>
+ <ul> __Deep Reinforcement Learning__ </ul> </br>
  <ul> __MLOPs Using Google's Vertex AI__ </ul> </br>
  <ul> __Exp- lainable AI__ </ul></li></td>
 
