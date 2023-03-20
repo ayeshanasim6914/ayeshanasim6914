@@ -3,18 +3,18 @@
 ### Data Scientist | Story Teller
 </div>
 
-<table >
+<table border="0">
 <tr>
-  <td>🔭 I’m currently working on: </br>
-  - __Deep Reinforcement Learning__ </br>
-  - __MLOPs Using Google's Vertex AI__ </br>
-  - __Exp- lainable AI__ </td>
+<td>🔭 I’m currently working on: </br>
+ - __Deep Reinforcement Learning__ </br>
+ - __MLOPs Using Google's Vertex AI__ </br>
+ - __Exp- lainable AI__ </td>
 
-<td>🌱 I’m passionate about: 
-- __Diving Deeper into AI__ 
-- __Story Telling through Creative Visuals__ 
-- __Mentoring people on ML/AI
-  - __Responsible and safe use of AI__ </td>
+<td>🌱 I’m passionate about: </br>
+- __Diving Deeper into AI__ </br>
+- __Story Telling through Creative Visuals__ </br>
+- __Mentoring people on ML/AI__ </br>
+- __Responsible and safe use of AI__ </td>
 </tr>
 </table>
   
