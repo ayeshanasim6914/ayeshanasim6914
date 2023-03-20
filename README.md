@@ -6,15 +6,15 @@
 <table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tr>
 <td>🔭 I’m currently working on: </br>
- <li> __Deep Reinforcement Learning__ </li> </br>
- <ul> __MLOPs Using Google's Vertex AI__ </ul> </br>
- <ul> __Exp- lainable AI__ </ul></li></td>
+ <li> Deep Reinforcement Learning</li>
+ <li> MLOPs Using Google's Vertex AI </li>
+ <li> Explainable AI </li></td>
 
 <td>🌱 I’m passionate about: </br>
-- __Diving Deeper into AI__ </br>
-- __Story Telling through Creative Visuals__ </br>
-- __Mentoring people on ML/AI__ </br>
-- __Responsible and safe use of AI__ </td>
+<li> Diving Deeper into AI </li>
+<li> Story Telling through Creative Visuals </li>
+<li> Mentoring people on ML/AI </li>
+<li> Responsible and safe use of AI </li> </td>
 </tr>
 </table>
 </div>
