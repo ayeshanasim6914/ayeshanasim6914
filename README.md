@@ -13,7 +13,7 @@
  <td>🌱 <b> I’m passionate about: </b></br>
 <li> Diving Deeper into AI </li>
 <li> Story Telling through Creative Visuals </li>
-<li> Responsible and safe use of AI </li> </td>
+<li> Responsible and Safe Use of AI </li> </td>
 </tr>
 </table>
 </div>
