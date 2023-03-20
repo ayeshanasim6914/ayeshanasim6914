@@ -1,8 +1,8 @@
 <div align="center">
-  Hi! I'm Ayesha and I'm a Data Scientist.
+  Hi! I'm Ayesha & .
 </div>
 
-I’m currently working on: 
+🔭 I’m currently working on: 
 - __Deep Reinforcement Learning__ 
 - __MLOPs Using Google's Vertex AI__ 
 - __Explainable AI__
@@ -11,3 +11,9 @@ I’m currently working on:
   Connect with me!<br>
   <a href="https://ayeshanasim.github.io">Website</a> | <a href="https://www.linkedin.com/in/ayesha-nasim-b31819b5/">LinkedIn</a>
 </div>
+
+🌱 I’m passionate about: 
+- __Diving Deeper into AI__ 
+- __Story Telling through Creative Visuals__ 
+- __Mentoring people on ML/AI
+- __Responsible and safe use of AI__
