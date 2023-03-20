@@ -6,9 +6,10 @@
 <table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tr>
 <td>🔭 I’m currently working on: </br>
- - __Deep Reinforcement Learning__ </br>
- - __MLOPs Using Google's Vertex AI__ </br>
- - __Exp- lainable AI__ </td>
+ <li>
+  <ul> __Deep Reinforcement Learning__ </ul> </br>
+ <ul> __MLOPs Using Google's Vertex AI__ </ul> </br>
+ <ul> __Exp- lainable AI__ </ul></li></td>
 
 <td>🌱 I’m passionate about: </br>
 - __Diving Deeper into AI__ </br>
