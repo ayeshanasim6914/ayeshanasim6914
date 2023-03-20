@@ -11,7 +11,7 @@
  <li> Explainable AI </li></td>
 
  <td>🌱 <b> I’m passionate about: </b></br>
-<li> Diving Deeper into AI </li>
+<li> Diving Deeper into AI/ML </li>
 <li> Story Telling through Creative Visuals </li>
 <li> Responsible and Safe Use of AI </li> </td>
 </tr>
