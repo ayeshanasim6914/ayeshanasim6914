@@ -1,5 +1,3 @@
-![header image](/background.gif)
-
 <div align="center">
   Hi! I'm Ayesha and I'm a Data Scientist.
 </div>
