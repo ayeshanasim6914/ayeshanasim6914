@@ -5,19 +5,16 @@
 
 <table >
 <tr>
-  <td><b>🔭 I’m currently working on: </b></td>
-  <td><b> __Deep Reinforcement Learning__ </b></td>
-  <td><b> __MLOPs Using Google's Vertex AI__ </b></td>
-  <td><b> __Explainable AI__</b></tr>
-</tr>
-</div>
+  <td>🔭 I’m currently working on:
+  - __Deep Reinforcement Learning__ 
+  - __MLOPs Using Google's Vertex AI__
+  - __Exp- lainable AI__ </td>
 
-<tr>
-🌱 I’m passionate about: 
+<td>🌱 I’m passionate about: 
 - __Diving Deeper into AI__ 
 - __Story Telling through Creative Visuals__ 
 - __Mentoring people on ML/AI
-- __Responsible and safe use of AI__
+  - __Responsible and safe use of AI__ </td>
 </tr>
 </table>
   
