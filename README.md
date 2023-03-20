@@ -1,16 +1,16 @@
 <div align="center">
- <b> Hi there 👋, I'm Ayesha </b> </br>
+ <b> Hi there 👋, I'm Ayesha! </b> </br>
  Data Scientist | Story Teller </br>
 </div> </br>
 <div align="center">
 <table>
 <tr>
-<td>🔭 I’m currently working on: </br>
+ <td>🔭 <b> I’m currently working on: </b></br>
  <li> Deep Reinforcement Learning</li>
  <li> MLOPs Using Google's Vertex AI </li>
  <li> Explainable AI </li></td>
 
-<td>🌱 I’m passionate about: </br>
+ <td>🌱 <b> I’m passionate about: </b></br>
 <li> Diving Deeper into AI </li>
 <li> Story Telling through Creative Visuals </li>
 <li> Responsible and safe use of AI </li> </td>
