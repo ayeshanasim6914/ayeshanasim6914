@@ -3,7 +3,7 @@
  <b> Data Scientist | Story Teller </b></br>
 </div>
 <div align="center">
-<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+<table>
 <tr>
 <td>🔭 I’m currently working on: </br>
  <li> Deep Reinforcement Learning</li>
@@ -13,7 +13,6 @@
 <td>🌱 I’m passionate about: </br>
 <li> Diving Deeper into AI </li>
 <li> Story Telling through Creative Visuals </li>
-<li> Mentoring people on ML/AI </li>
 <li> Responsible and safe use of AI </li> </td>
 </tr>
 </table>
