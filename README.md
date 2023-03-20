@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there 👋, I'm Ayesha
+# __Hi there 👋, I'm Ayesha__ </br>
 ### Data Scientist | Story Teller
 </div>
 <div align="center">
