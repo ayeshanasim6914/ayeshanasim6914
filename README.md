@@ -1,7 +1,7 @@
 <div align="center">
- <b>__Hi there 👋, I'm Ayesha__</b> </br>
+ <b> Hi there 👋, I'm Ayesha </b> </br>
  <b> Data Scientist | Story Teller </b></br>
-</div>
+</div> </br>
 <div align="center">
 <table>
 <tr>
