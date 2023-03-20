@@ -5,9 +5,9 @@
 
 <table >
 <tr>
-  <td>🔭 I’m currently working on:
-  - __Deep Reinforcement Learning__ 
-  - __MLOPs Using Google's Vertex AI__
+  <td>🔭 I’m currently working on: </br>
+  - __Deep Reinforcement Learning__ </br>
+  - __MLOPs Using Google's Vertex AI__ </br>
   - __Exp- lainable AI__ </td>
 
 <td>🌱 I’m passionate about: 
