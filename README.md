@@ -1,9 +1,9 @@
 <div align="center">
  <b>__Hi there 👋, I'm Ayesha__</b> </br>
- <b> Data Scientist | Story Teller </b>
+ <b> Data Scientist | Story Teller </b></br>
 </div>
 <div align="center">
-<table border="0">
+<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
 <tr>
 <td>🔭 I’m currently working on: </br>
  - __Deep Reinforcement Learning__ </br>
