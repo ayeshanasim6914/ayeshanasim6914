@@ -1,6 +1,6 @@
 <div align="center">
-# __Hi there 👋, I'm Ayesha__ </br>
-### Data Scientist | Story Teller
+ <b>__Hi there 👋, I'm Ayesha__</b> </br>
+ <b> Data Scientist | Story Teller </b>
 </div>
 <div align="center">
 <table border="0">
