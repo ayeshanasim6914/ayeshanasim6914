@@ -7,8 +7,8 @@
 <tr>
   <td><b>🔭 I’m currently working on: </b></td>
   <td><b> __Deep Reinforcement Learning__ </b></td>
-  <td><b> __MLOPs Using Google's Vertex AI__ <b></td><b> 
-  <td><b> __Explainable AI__<td><b>
+  <td><b> __MLOPs Using Google's Vertex AI__ </b></td>
+  <td><b> __Explainable AI__</b></tr>
 </tr>
 </div>
 
